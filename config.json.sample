@@ -1,0 +1,12 @@
+{
+    "server_url": "https://hashicorp_vault.local",
+    "server_port": "443",
+    "username": "username",
+    "password": "password_base64_encoded",
+    "token": "",
+    "confluence_url": "https://confluence_wev_site.local",
+    "confluence_space": "AISD",
+    "confluence_page_mapping_policies": "Hashicorp vault. Назначенные политики",
+    "confluence_page_policies": "Hashicorp vault. Список политик"
+}
+
